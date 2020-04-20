@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SumOfMultiplesTest" tests="16" skipped="16" failures="0" errors="0" timestamp="2020-04-20T16:10:24" hostname="DESKTOP-1VKI9MO" time="0.019">
+  <properties/>
+  <testcase name="much larger factors" classname="SumOfMultiplesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="much larger limit" classname="SumOfMultiplesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="factors not relatively prime" classname="SumOfMultiplesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="all numbers are multiples of 1" classname="SumOfMultiplesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="no factors means an empty sum" classname="SumOfMultiplesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="each multiple is only counted once" classname="SumOfMultiplesTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="one factor is a multiple of another" classname="SumOfMultiplesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="the factor 0 does not affect the sum of multiples of other factors" classname="SumOfMultiplesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="three factors" classname="SumOfMultiplesTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="no multiples within limit" classname="SumOfMultiplesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="some pairs of factors relatively prime and some not" classname="SumOfMultiplesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="include-exclude-based solutions must extend to cardinality greater than 3" classname="SumOfMultiplesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="one factor has multiples within limit" classname="SumOfMultiplesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="more than one multiple within limit" classname="SumOfMultiplesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="more than one factor with multiples within limit" classname="SumOfMultiplesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="the only multiple of 0 is 0" classname="SumOfMultiplesTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
