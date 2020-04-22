@@ -1,15 +1,14 @@
 object SumOfMultiples {
 
     fun sum(factors: Set<Int>, limit: Int): Int {
-        TODO("Implement this function to complete the task")
-        var Sum : Int = 0;
-        for(value in factors){
-            var i : Int = 1;
-            while (value*i <= limit){
-                Sum += value*i;
-                i++;
+        val multiples = mutableSetOf<Int>();
+        for(value in factors.minus(0)){
+            for( i in 1..limit/value){
+                if(value*i < limit){
+                    multiples.add(value*i)
+                }
             }
         }
-        return Sum;
+        return multiples.sum();
     }
 }
