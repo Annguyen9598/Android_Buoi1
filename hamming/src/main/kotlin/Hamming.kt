@@ -10,7 +10,7 @@ object Hamming {
             }
             else{
                 for(i in 0 until leftStrand.length ){
-                    if(!leftStrand.substring(i,i+1).equals(rightStrand.substring(i,i+1))){
+                    if(!leftStrand[i].equals(rightStrand[i])){
                         count++;
                     }
                 }

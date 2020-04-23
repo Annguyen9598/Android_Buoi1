@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="HammingTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-04-22T04:11:53" hostname="DESKTOP-1VKI9MO" time="0.033">
+<testsuite name="HammingTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-04-23T15:11:49" hostname="DESKTOP-1VKI9MO" time="0.034">
   <properties/>
-  <testcase name="single letter identical strands" classname="HammingTest" time="0.02"/>
+  <testcase name="single letter identical strands" classname="HammingTest" time="0.017"/>
   <testcase name="empty strands" classname="HammingTest" time="0.0"/>
   <testcase name="long different strands" classname="HammingTest" time="0.0"/>
-  <testcase name="disallow first strand longer" classname="HammingTest" time="0.011"/>
-  <testcase name="long identical strands" classname="HammingTest" time="0.0"/>
-  <testcase name="disallow second strand longer" classname="HammingTest" time="0.001"/>
+  <testcase name="disallow first strand longer" classname="HammingTest" time="0.015"/>
+  <testcase name="long identical strands" classname="HammingTest" time="0.001"/>
+  <testcase name="disallow second strand longer" classname="HammingTest" time="0.0"/>
   <testcase name="single letter different strands" classname="HammingTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
